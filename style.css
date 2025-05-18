@@ -1,3 +1,12 @@
+h1,h2,h3,h4,h5,h6 {
+	text-align: center ;
+}
+
+main {
+	max-width: 800px ;
+	margin: auto ;
+}
+
 a {
 	color: #0000bb;
 	text-decoration: none;
